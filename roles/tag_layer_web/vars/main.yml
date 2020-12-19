@@ -1,0 +1,3 @@
+---
+# vars file for roles/tag_layer_web
+path_to_app: "/var/www/html"

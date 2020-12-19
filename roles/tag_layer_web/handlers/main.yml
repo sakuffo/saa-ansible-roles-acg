@@ -1,0 +1,4 @@
+---
+# handlers file for roles/tag_layer_web  
+- name: restart apache
+  service: name=httpd state=restarted

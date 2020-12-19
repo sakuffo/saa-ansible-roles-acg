@@ -1,0 +1,6 @@
+# setup-app.yml
+---  
+  - hosts: tag_layer_web
+    become: true
+    roles:
+      - tag_layer_web
